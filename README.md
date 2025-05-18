@@ -1,4 +1,4 @@
-# Slidev Theme Neversink
+# Slidev Theme Neversink - my own theme
 
 An education/academia oriented Slidev theme with some whimsical elements.
 
